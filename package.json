@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "im-design": "^1.4.9",
+    "im-design": "^1.4.47",
     "vue": "^3.5.17"
   },
   "devDependencies": {
